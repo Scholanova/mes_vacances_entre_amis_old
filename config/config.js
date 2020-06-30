@@ -18,7 +18,7 @@ module.exports = {
     production: {
         username: 'vacanceentre_4537',
         password: 'LfxT9jOm1gaG1CruWq8a',
-        database: 'project_vacance_entre_amis_production',
+        database: 'vacanceentre_4537',
         host: '127.0.0.1',
         dialect: 'postgres',
         logging: (msg) => console.log('[DATABASE]', msg)
